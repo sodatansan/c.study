@@ -5,4 +5,4 @@
 
 ## ファイル一覧
 - matrix_multiply.c：4×3行列と3×4行列の積を計算する
-- increment_data.c：入力した日にちの次の日にちを表示する
+- increment_data.c：ポインタを使用して入力した日付の次の日付を算出
